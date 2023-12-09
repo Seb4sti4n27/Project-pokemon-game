@@ -22,7 +22,11 @@ export default {
         type:Boolean,
         default:false,
         required:true
-      }
+      },
+      //   onImageLoaded: {
+      //   type: Function,
+      //   required: true
+      // }
     },
     
     computed: {
@@ -30,7 +34,13 @@ export default {
         return `https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/dream-world/${this.pokemonId}.svg`
       }
 
-    }
+    },
+  //   methods: {
+  //   onImageLoad() {
+  //     // Emitir un evento cuando la imagen se ha cargado
+  //     this.onImageLoaded(this.imgSrc);
+  //   }
+  // }
 
 
 }

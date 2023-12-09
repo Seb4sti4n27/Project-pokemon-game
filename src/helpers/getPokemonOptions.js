@@ -1,7 +1,7 @@
 import pokemonApi from "@/api/PokemonApi"
 
 
-const getpokemons= ()=>{
+const  getpokemons= ()=>{
 
     /*Con esto creamos una const  creamos un arreglo de 650 que estara dentro de un array  */
     const pokemonsArr= Array.from( Array(650) )
