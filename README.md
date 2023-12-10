@@ -6,8 +6,13 @@ Este Proyecto lo hice  usando PokeApi  Consiste en Adivinar el Pokemon Y asu vez
 
 ![image](https://github.com/Seb4sti4n27/Project-pokemon-game/assets/124722053/54670b64-9935-4ea8-8517-a3d8ca868d97)
 
-
-
+Tecnologias Usadas . 
+Vue 3 
+JS
+CSS
+Sass
+Boobstrap
+Node.js
 
 ## Project setup
 ```
